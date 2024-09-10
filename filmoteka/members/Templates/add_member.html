@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Enter Your Films</title>
-</head>
+    <style>
+        body {
+            background-color: #E6E6FA;
+        }
+    </style>
+
+    <p><a href="/">HOME</a> | <a href="/all_members">Seznam</a> | <a href="/add_member">Vlož film</a></p>
+
+    <title>Zadej film</title>
+
 <body>
-    <h1>Zadej Film</h1>
+    <h1 style="background-color:black; color:red;">Zadej FILM</h1>
     <form method="post">
         {% csrf_token %}
         {{ form.as_p }}
-        <button type="submit">Submit</button>
+        <button type="submit">Ulož </button>
+        <button type="reset">Zrušit </button>
     </form>
 </body>
 </html>
