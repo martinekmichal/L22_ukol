@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87816b1e-a936-4a7a-87d5-a69c1bfc840f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/filmoteka/members/Templates/master.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmoteka/members/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmoteka/filmoteka/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/filmoteka/filmoteka/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmoteka/members/Templates/add_member.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmoteka/members/Templates/add_member.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmoteka/members/Templates/all_members.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmoteka/members/Templates/all_members.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmoteka/members/Templates/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmoteka/members/Templates/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmoteka/members/Templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmoteka/members/Templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmoteka/members/Templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmoteka/members/Templates/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmoteka/members/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/filmoteka/members/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmoteka/members/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/filmoteka/members/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmoteka/members/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/filmoteka/members/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmoteka/members/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/filmoteka/members/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="87816b1e-a936-4a7a-87d5-a69c1bfc840f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
